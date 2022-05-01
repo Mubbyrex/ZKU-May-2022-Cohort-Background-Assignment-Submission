@@ -16,8 +16,8 @@ If a term of the contract is satisfied and it is verified by all participants of
 2. What is gas? Why is gas optimization such a big focus when building smart contracts?
 
 gas refers to the cost necessary to perform a transaction on the network.
-Miners set the price of gas based on supply and demand for the computational power of the network
- needed to process smart contracts and other transactions.
+Miners set the price of gas based on supply and demand for the computational power of the network needed to process smart contracts and other 
+Gas optimizeation preserves capital.the higher the gas fee incurred,the costlier smart contract becomes
 
 3. What is a hash? Why do people use hashing to hide information?
 
